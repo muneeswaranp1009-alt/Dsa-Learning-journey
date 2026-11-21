@@ -32,7 +32,6 @@ strivers-a2z-dsa-sheet-solutions/
 │ ├── Heaps/
 │ ├── Greedy/
 │ ├── Binary Tree/
-
 │ ├── Binary Search Tree/
 │ ├── Graph/
 │ ├── Dynamic Programming/
